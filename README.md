@@ -12,9 +12,9 @@ Asystent konfiguracyjny dla pluginów Minecraft — dostępny przez Streamlit (w
 
 1. Stwórz plik `.env` z zawartością:
 
-OPENAI_API_KEY="tgp_v1_7Jzy4PPSy3iZ4knffk8z9aVCav2vqIvC3yRJEY56dYs"
+OPENAI_API_KEY="..."
 OPENAI_BASE_URL="https://api.together.xyz/v1"
-DISCORD_BOT_TOKEN="aJFZgy-p34ULZs-kEE508qjTgUhYtkpd"
+DISCORD_BOT_TOKEN="..."
 
 2. Zainstaluj zależności:
 
@@ -28,6 +28,6 @@ streamlit run streamlit_app.py
    
 Skopiuj dane do `.streamlit/secrets.toml`:
 
-OPENAI_API_KEY="tgp_v1_7Jzy4PPSy3iZ4knffk8z9aVCav2vqIvC3yRJEY56dYs"
+OPENAI_API_KEY="..."
 OPENAI_BASE_URL="https://api.together.xyz/v1"
-DISCORD_BOT_TOKEN="aJFZgy-p34ULZs-kEE508qjTgUhYtkpd"
+DISCORD_BOT_TOKEN="..."
