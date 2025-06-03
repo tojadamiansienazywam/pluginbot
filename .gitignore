@@ -1,4 +1,14 @@
+# Ignoruj foldery wirtualnego środowiska
+venv/
 .env
+
+# Ignoruj pliki VSCode
+.vscode/
+
+# Ignoruj pliki systemowe
 __pycache__/
 *.pyc
-.streamlit/secrets.toml
+
+# Ignoruj pliki systemów Windows/macOS
+.DS_Store
+Thumbs.db
